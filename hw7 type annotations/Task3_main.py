@@ -37,7 +37,7 @@ user1 = User(full_name='Petrenko Igor Sergijovych',
 user2 = User(full_name='Sergienko Kiryl Oleksijovych',
              short_name='Sergienko K. O.',
              birthday=date(1992, 3, 4),
-             email='olhaaliakina@gmail.com')
+             email='olha@gmail.com')
 
 create_users_db()
 add_user(user1)
